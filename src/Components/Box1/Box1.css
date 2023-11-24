@@ -1,0 +1,25 @@
+* {
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+  margin: 0 auto;
+}
+
+.box1 {
+  border-radius: 20px;
+  width: 100vw;
+  height: 100vh;
+  background-color: blue;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  gap: 2rem;
+}
+
+input {
+  padding: 10px 20px;
+  border-radius: 20px;
+  border: none;
+}
